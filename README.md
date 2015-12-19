@@ -1,2 +1,2 @@
 # Inofficial Magento Implementation Standards
-Check the wiki
+Check the [wiki](wiki)
