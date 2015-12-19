@@ -1,2 +1,2 @@
 # Inofficial Magento Implementation Standards
-Check the [wiki](wiki)
+Check the [wiki](https://github.com/yireo/Magento_Implementation_Standard)
